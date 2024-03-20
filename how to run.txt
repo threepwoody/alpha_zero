@@ -1,0 +1,1 @@
+python training_gomoku --board_size=9 --num_stack=4 --num_res_blocks=9 --num_filters=32 --num_fc_units=64 --num_simulations=200 --ckpt_dir=./checkpoints/gomoku/9x9 --logs_dir=./logs/gomoku/9x9 --save_sgf_dir=./games/selfplay_games/gomoku/9x9
